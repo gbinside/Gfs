@@ -1,0 +1,5 @@
+- ricezione del file di bundle (zippati) e inserimento a db
+- ricezione dei file PS generati
+- ricezione dei tratti dal penDispatcher
+- software per cellulare per il post(o mail o altro cazzo) dei pgc
+- possibilità di loadBalancer per la ricezione
